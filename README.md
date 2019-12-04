@@ -1,4 +1,3 @@
-# lantern-toronto
 ## UBC M.Sc. graduate learns Data Analytics and Data Science. 
 
 ### SQL, Python, R, Statistics. 
