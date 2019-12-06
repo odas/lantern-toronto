@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+pandas
+matplotlib
+datetime
+seaborn
+numpy
