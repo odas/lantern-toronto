@@ -4,3 +4,4 @@ matplotlib
 datetime
 seaborn
 numpy
+dash==1.7.0
