@@ -1,4 +1,3 @@
-# slides, figures (tenors), check
 rm(list=ls())
 install.packages(c("xts", "ggplot2", "corrplot", "viridis", 
                    "fitdistrplus","actuar", "gamlss", "gamlss.dist", "gamlss.add",
